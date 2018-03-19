@@ -117,5 +117,5 @@ plt.xlabel("regularization")
 plt.ylabel("accuracy")
 plt.legend(['train', 'dev'], loc='upper left')
 plt.savefig("q4_reg_v_acc.png")
-plt.show()
+#plt.show()
 
